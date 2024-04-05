@@ -155,7 +155,7 @@ bk.html
 
 ## OUTPUT:
 
-![alt text](book.png)
+![book](https://github.com/ikeerthivasanswaminathan/cover/assets/148937372/284aa201-3f17-4318-85d9-dbecea308c37)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
